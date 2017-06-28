@@ -1,7 +1,7 @@
 {
   "name": "sequelize-mysql-set-timezone-fix",
   "description": "This a fixed version of multi dialect ORM for Node.JS/io.js",
-  "version": "3.13.0",
+  "version": "3.13.1",
   "author": "Sascha Depold <sascha@depold.com>",
   "contributors": [
     {
